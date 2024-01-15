@@ -1,0 +1,22 @@
+.nav{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+    display: flex;
+    width: 1000px;
+    justify-content: space-around;
+  }
+  .link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+  }
+  .logo{
+    padding: 40px;
+    font-size: 40px;
+  }
+
+  h1{
+    text-align: center;
+  }
+
